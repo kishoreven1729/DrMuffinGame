@@ -27,7 +27,7 @@ public class EnemyScript : MonoBehaviour
 	#region Constructor
 	void Start() 
 	{
-		enemyLevel 			= 1;
+		enemyLevel 			= 0;
 
 		_foodCollected 		= 0;
 
