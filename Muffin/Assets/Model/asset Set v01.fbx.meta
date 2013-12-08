@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: a6343b067aab44194b174c1fc8662e39
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: asset__BunsonAndBeeckrs_02:go_bicker01
+    100004: asset__BunsonAndBeeckrs_02:go_bunson07
+    100006: asset__BunsonAndBeeckrs_02:pCylinder7
+    100008: asset__BunsonAndBeeckrs_02:pCylinder8
+    100010: asset__BunsonAndBeeckrs_02:pCylinder9
+    100012: asset__BunsonAndBeeckrs_02:polySurface4
+    100014: asset__BunsonAndBeeckrs_02:polySurface4 1
+    100016: go_bunson012
+    100018: go_handels01
+    100020: go_handels01 1
+    100022: go_handels02
+    100024: go_label
+    100026: go_masheen01
+    100028: go_poringBickre01
+    100030: go_sat
+    100032: grp_bunsonAndBicker
+    100034: persp1
+    100036: polySurface1
+    100038: spotLight2
+    100040: spotLight3
+    400000: //RootNode
+    400002: asset__BunsonAndBeeckrs_02:go_bicker01
+    400004: asset__BunsonAndBeeckrs_02:go_bunson07
+    400006: asset__BunsonAndBeeckrs_02:pCylinder7
+    400008: asset__BunsonAndBeeckrs_02:pCylinder8
+    400010: asset__BunsonAndBeeckrs_02:pCylinder9
+    400012: asset__BunsonAndBeeckrs_02:polySurface4
+    400014: asset__BunsonAndBeeckrs_02:polySurface4 1
+    400016: go_bunson012
+    400018: go_handels01
+    400020: go_handels01 1
+    400022: go_handels02
+    400024: go_label
+    400026: go_masheen01
+    400028: go_poringBickre01
+    400030: go_sat
+    400032: grp_bunsonAndBicker
+    400034: persp1
+    400036: polySurface1
+    400038: spotLight2
+    400040: spotLight3
+    2300000: asset__BunsonAndBeeckrs_02:go_bicker01
+    2300002: asset__BunsonAndBeeckrs_02:go_bunson07
+    2300004: asset__BunsonAndBeeckrs_02:pCylinder7
+    2300006: asset__BunsonAndBeeckrs_02:pCylinder8
+    2300008: asset__BunsonAndBeeckrs_02:pCylinder9
+    2300010: asset__BunsonAndBeeckrs_02:polySurface4
+    2300012: asset__BunsonAndBeeckrs_02:polySurface4 1
+    2300014: go_bunson012
+    2300016: go_handels01
+    2300018: go_handels01 1
+    2300020: go_handels02
+    2300022: go_label
+    2300024: go_masheen01
+    2300026: go_poringBickre01
+    2300028: go_sat
+    2300030: polySurface1
+    3300000: asset__BunsonAndBeeckrs_02:go_bicker01
+    3300002: asset__BunsonAndBeeckrs_02:go_bunson07
+    3300004: asset__BunsonAndBeeckrs_02:pCylinder7
+    3300006: asset__BunsonAndBeeckrs_02:pCylinder8
+    3300008: asset__BunsonAndBeeckrs_02:pCylinder9
+    3300010: asset__BunsonAndBeeckrs_02:polySurface4
+    3300012: asset__BunsonAndBeeckrs_02:polySurface4 1
+    3300014: go_bunson012
+    3300016: go_handels01
+    3300018: go_handels01 1
+    3300020: go_handels02
+    3300022: go_label
+    3300024: go_masheen01
+    3300026: go_poringBickre01
+    3300028: go_sat
+    3300030: polySurface1
+    4300000: go_masheen01
+    4300002: asset__BunsonAndBeeckrs_02:pCylinder7
+    4300004: asset__BunsonAndBeeckrs_02:pCylinder8
+    4300006: asset__BunsonAndBeeckrs_02:pCylinder9
+    4300008: go_bunson012
+    4300010: asset__BunsonAndBeeckrs_02:polySurface4
+    4300012: go_label
+    4300014: go_handels01
+    4300016: go_sat
+    4300018: go_handels02
+    4300020: asset__BunsonAndBeeckrs_02:go_bicker01
+    4300022: asset__BunsonAndBeeckrs_02:go_bunson07
+    4300024: asset__BunsonAndBeeckrs_02:polySurface4
+    4300026: go_handels01
+    4300028: polySurface1
+    4300030: go_poringBickre01
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
